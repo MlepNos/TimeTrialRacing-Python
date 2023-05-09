@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Minesweeper",
+			"path": "../../../../../internet_technologies/Minesweeper"
+		},
+		{
+			"name": "Arduino_Safe_Statemachine",
+			"path": "../../../../../../Personal/Arduino/Arduino_Safe_Statemachine"
+		}
+	],
+	"settings": {}
+}
